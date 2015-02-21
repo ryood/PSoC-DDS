@@ -64,6 +64,9 @@ int main()
     SamplingTimer_Start(); 
     TimerISR_StartEx(TimerISR_Handler);
     IDAC8_Start();
+    
+    Opamp_1_Start();
+    Opamp_2_Start();
         
     CyGlobalIntEnable;
     
