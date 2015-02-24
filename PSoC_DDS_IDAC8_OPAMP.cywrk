@@ -8,6 +8,7 @@
 <files />
 <projects>
 <v>.\PSoC_DDS_IDAC8_OPAMP.cydsn\PSoC_DDS_IDAC8_OPAMP.cyprj</v>
+<v>.\VGND_Test.cydsn\VGND_Test.cyprj</v>
 </projects>
 <workspace_id v="655acd78-2b13-4007-9a59-99b288b06a57" />
 <WriteAppVersionLastSavedWith v="3.1.0.1570" />
